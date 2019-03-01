@@ -1,0 +1,17 @@
+header {
+	background-image: url(BRESheader.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+body {
+	text-align: center;
+}
+#logo {
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
