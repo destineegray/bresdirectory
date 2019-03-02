@@ -10,8 +10,28 @@ h1 {
 body {
 	text-align: center;
 }
+nav ul {
+	float: left;
+	list-style-type: none;
+}
+nav a { text-decoration: none; }
+
+caption { font-weight: bold; }
+
+table { margin: auto;
+		border: 5px solid black }
+td, th {
+	border: 1px solid;
+	padding: 1em;
+}
 #logo {
 	float: left;
-	margin-top: 20px;
-	margin-left: 10px;
+	margin: 20px 0 0 10px;
+}
+#enotice {
+	float: left;
+	width: 50%; 
+	float: right;
+	width: 50%;
+	color: #cc0606;
 }
