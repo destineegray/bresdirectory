@@ -10,6 +10,7 @@ h1 {
 body {
 	text-align: center;
 }
+p { color: #cc0606; }
 nav ul {
 	float: left;
 	list-style-type: none;
