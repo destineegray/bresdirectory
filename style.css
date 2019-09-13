@@ -20,7 +20,7 @@ nav a { text-decoration: none; }
 caption { font-weight: bold; }
 
 table { margin: auto;
-		border: 5px solid black }
+	border: 5px solid black; }
 td, th {
 	border: 1px solid;
 	padding: 1em;
